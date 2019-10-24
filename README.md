@@ -12,3 +12,4 @@ Si compone di due parti: la prima parte viene eseguita automaticamente e replica
 La seconda parte è interattiva da parte dell'utente, viene mostrata una lista di Articoli e tramite scelta effettuata tramite Id dell'articolo. Per terminare la fase di scelta basta digitare un carattere diverso da un numero.
 
 
+Testo di riferimento: https://github.com/xpeppers/sales-taxes-problem
